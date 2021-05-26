@@ -1,0 +1,5 @@
+pymongo
+scrapy
+selenium
+scrapyd
+scrapyd-client

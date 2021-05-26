@@ -1,0 +1,59 @@
+Date : 2021-05-06 14:24:44
+Directory : /Users/lh/Desktop/毕设数据/项目/后端
+Total : 29 files,  509 codes, 150 comments, 183 blanks, all 842 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         29 |        509 |        150 |        183 |        842 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                             | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                |         29 |        509 |        150 |        183 |        842 |
+| webback                                                                          |         29 |        509 |        150 |        183 |        842 |
+| webback/config                                                                   |          9 |         66 |         19 |         33 |        118 |
+| webback/config/migrations                                                        |          2 |         21 |          1 |          8 |         30 |
+| webback/parse                                                                    |         14 |        315 |         66 |         99 |        480 |
+| webback/parse/migrations                                                         |          6 |        163 |          5 |         32 |        200 |
+| webback/webback                                                                  |          5 |        113 |         63 |         46 |        222 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                         | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/__init__.py                          | Python   |          0 |          0 |          1 |          1 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/admin.py                             | Python   |          1 |          1 |          2 |          4 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/apps.py                              | Python   |          3 |          0 |          3 |          6 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/migrations/0001_initial.py           | Python   |         21 |          1 |          7 |         29 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/migrations/__init__.py               | Python   |          0 |          0 |          1 |          1 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/models.py                            | Python   |          9 |         13 |          8 |         30 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/tests.py                             | Python   |          1 |          1 |          2 |          4 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/urls.py                              | Python   |          6 |          0 |          3 |          9 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/config/views.py                             | Python   |         25 |          3 |          6 |         34 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/manage.py                                   | Python   |         15 |          2 |          5 |         22 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/Serialize.py                          | Python   |          0 |          0 |          1 |          1 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/__init__.py                           | Python   |          0 |          0 |          1 |          1 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/admin.py                              | Python   |          1 |          1 |          2 |          4 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/apps.py                               | Python   |          3 |          0 |          3 |          6 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/migrations/0001_initial.py            | Python   |         53 |          1 |          7 |         61 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/migrations/0002_auto_20210502_0157.py | Python   |         41 |          1 |          6 |         48 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/migrations/0003_auto_20210502_0220.py | Python   |         24 |          1 |          6 |         31 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/migrations/0004_searchitem.py         | Python   |         20 |          1 |          6 |         27 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/migrations/0005_auto_20210504_0206.py | Python   |         25 |          1 |          6 |         32 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/migrations/__init__.py                | Python   |          0 |          0 |          1 |          1 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/models.py                             | Python   |         71 |         37 |         36 |        144 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/tests.py                              | Python   |          1 |          1 |          2 |          4 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/urls.py                               | Python   |          9 |          0 |          3 |         12 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/parse/views.py                              | Python   |         67 |         22 |         19 |        108 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/webback/__init__.py                         | Python   |          0 |          0 |          1 |          1 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/webback/asgi.py                             | Python   |          4 |          8 |          5 |         17 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/webback/settings.py                         | Python   |         97 |         32 |         33 |        162 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/webback/urls.py                             | Python   |          8 |         15 |          2 |         25 |
+| /Users/lh/Desktop/毕设数据/项目/后端/webback/webback/wsgi.py                             | Python   |          4 |          8 |          5 |         17 |
+| Total                                                                            |          |        509 |        150 |        183 |        842 |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
